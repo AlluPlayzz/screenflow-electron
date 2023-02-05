@@ -1,5 +1,8 @@
-# Electron Screen Recorder
+# Screenflow
+## This is a project based on [Fireship's](https://github.com/fireship-io) electron screen recorder.
 
-Build a screen recorder with Electron from scratch. 
 
-Watch the [Electron 8 Tutorial](https://youtu.be/3yqDxhR2XxE) on YouTube. 
+# Tools used: [Node.js](https://nodejs.org), [Electron](https://www.electronjs.org/) and [Bulma](https://bulma.io/)
+
+
+This project is cureently in alpha stage :)
